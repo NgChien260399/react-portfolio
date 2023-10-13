@@ -14,7 +14,10 @@ const Contact = () => {
           </p>
         </div>
 
-        <form action="" className="contact__form">
+        <form
+          action="mailto:nvchien2603@gmail.com"
+          method="GET"
+          className="contact__form">
           <div className="contact__form-group">
             <div className="contact__form-div">
               <input
@@ -38,12 +41,12 @@ const Contact = () => {
               type="text"
               className="contact__form-input"
               placeholder="Insert your subject"
+              name="subject"
             />
           </div>
 
           <div className="contact__form-div contact__form-area">
             <textarea
-              name=""
               id=""
               cols="30"
               rows="10"

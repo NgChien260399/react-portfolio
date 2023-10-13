@@ -8,7 +8,7 @@ const data = [
   {
     id: 1,
     image: Image1,
-    title: "UI/UX design",
+    title: "Digitalize contents",
     description:
       "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
   },
@@ -22,7 +22,7 @@ const data = [
   {
     id: 3,
     image: Image3,
-    title: "Photography",
+    title: "E-Learning Design",
     description:
       "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
   },

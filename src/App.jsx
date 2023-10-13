@@ -21,7 +21,7 @@ function App() {
         <Services />
         <Resume />
         <Portfolio />
-        <Pricing />
+        {/* <Pricing /> */}
         <Testimonials />
         <Blog />
         <Contact />

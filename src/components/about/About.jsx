@@ -13,18 +13,24 @@ const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">
-              I am Bolby Doe, web developer from London, United Kingdom. I have
-              rich experience in web site design and building and customization,
-              also I am good at WordPress.
+              I am Nguyen Van Chien, web developer from HaNoi, VietNam. As a
+              React fresher, I'm eager to apply my web development skills to
+              create engaging user interfaces. My passion for learning and
+              adaptability make me a valuable addition to any team. I'm excited
+              to contribute to innovative projects and grow as a developer in a
+              dynamic environment.
             </p>
-            <a href="" className="btn">
+            <a
+              href="https://drive.google.com/file/d/1GNOC1V1KF6qivAuz09eSAi3f2wlhj5kF/view?usp=drive_link"
+              className="btn"
+              target="_blank">
               Download CV
             </a>
           </div>
           <div className="about__skills grid">
             <div className="skills__data">
               <div className="skills__titles">
-                <h3 className="skills__name">Development</h3>
+                <h3 className="skills__name">HTML/CSS</h3>
                 <span className="skills__number">90%</span>
               </div>
               <div className="skills__bar">
@@ -34,7 +40,7 @@ const About = () => {
 
             <div className="skills__data">
               <div className="skills__titles">
-                <h3 className="skills__name">UI/UX design</h3>
+                <h3 className="skills__name">Javascript</h3>
                 <span className="skills__number">80%</span>
               </div>
               <div className="skills__bar">
@@ -44,8 +50,8 @@ const About = () => {
 
             <div className="skills__data">
               <div className="skills__titles">
-                <h3 className="skills__name">Photography</h3>
-                <span className="skills__number">60%</span>
+                <h3 className="skills__name">ReactJS</h3>
+                <span className="skills__number">80%</span>
               </div>
               <div className="skills__bar">
                 <span className="skills__percentage photography"></span>
